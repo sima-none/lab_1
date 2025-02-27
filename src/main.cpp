@@ -6,6 +6,7 @@ int main() {
     
     std::cout << "Sum: " << plus(a, b) << std::endl;
     std::cout << "Diff: " << minus(a, b) << std::endl;
+    std::cout << "Mult: " << times(a, b) << std::endl;
 
     return 0;
 }
